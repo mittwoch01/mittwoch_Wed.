@@ -1,2 +1,0 @@
-// OtherSection.js
-

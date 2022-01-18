@@ -24,7 +24,7 @@ export default function (){
       <dl>
         <dt>{cardListData.products[0].product}</dt>
         <dd>
-          {cardListData.products[1].narr}
+          {cardListData.products[0].narr}
         </dd>
       </dl>
       <div className="btn">

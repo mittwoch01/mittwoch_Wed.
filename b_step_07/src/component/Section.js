@@ -15,8 +15,6 @@ export default function (){
         </dl>
       </div>
       <div className="Content">
-
-        
         <Card />
         <Card />
         <Card />
